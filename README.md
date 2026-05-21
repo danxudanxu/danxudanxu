@@ -15,6 +15,10 @@ Research at the intersection of empirical macroeconomics, financial market micro
 - **Languages:** Mandarin (native), Cantonese (native), English (near-native)
 - **Stack:** Python, R, MATLAB, Stata
 
+## CV
+
+[Download CV (PDF)](Dan_Xu_CV_June2026.pdf)
+
 ## Contact
 
 - Email: xu.dan@rutgers.edu
