@@ -11,7 +11,7 @@ Research at the intersection of empirical macroeconomics, financial market micro
 
 ## Background
 
-- **Education:** Rutgers (PhD Economics, entering 2026; MA Economics, 2026), USC (MS Applied Economics and Econometrics, 2025), Brown (MPA, 2021), Boston University (BA Economics + International Relations, 2020)
+- **Education:** Rutgers (PhD Economics; MA Economics, 2026), USC (MS Applied Economics and Econometrics, 2025), Brown (MPA, 2021), Boston University (BA Economics + International Relations, 2020)
 - **Languages:** Mandarin (native), Cantonese (native), English (near-native)
 - **Stack:** Python, R, MATLAB, Stata
 
